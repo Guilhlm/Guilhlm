@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Guilherme Maia
-- 💻 Estudante de TI - e C#
+- 💻 Estudante de TI e C#
 - 📫 Contate-me: guilhermelimamaia3@gmail.com
 
 <div align="center">
