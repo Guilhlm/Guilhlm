@@ -1,4 +1,4 @@
-## Olá! Eu sou o Guilherme Maia
+## Bem vindo! Eu sou o Guilherme Maia
 - 💻 Estudante de TI e C#
 - 📫 Contate-me: guilhermelimamaia3@gmail.com
 
