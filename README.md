@@ -13,7 +13,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-402154?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-402154?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-402154?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
-![FIGMA](https://img.shields.io/badge/FIGMA-402154?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-402154?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-402154?style=for-the-badge&logo=php&logoColor=9a77e6)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MYSQL-402154?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -28,6 +27,7 @@
 ![CANVA](https://img.shields.io/badge/CANVA-402154.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
 ![ARDUINO](https://img.shields.io/badge/ARDUINO-402154?style=for-the-badge&logo=arduino&logoColor=green)&nbsp;
 ![OPERA_GX](https://img.shields.io/badge/OPERA_GX-402154?style=for-the-badge&logo=Opera&logoColor=red)&nbsp;
+![FIGMA](https://img.shields.io/badge/FIGMA-402154?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
 
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-402154?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
