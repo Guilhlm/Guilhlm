@@ -1,5 +1,5 @@
-<div align="center">  
-  <img width="100%" height="400px" src="https://github.com/user-attachments/assets/46aaba67-a803-430e-8cc9-5db1d7f9a159 "alt="Guilherme status" />
+<div align="center">    
+  <img width="100%" height="400px" src="https://github.com/user-attachments/assets/d158b3a9-a60f-4114-8f10-92e0eb19d543" />
 </div>
 
 ***
