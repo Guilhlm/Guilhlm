@@ -1,12 +1,11 @@
 <div align="center">  
   <img width="100%" height="400px" src="https://github.com/user-attachments/assets/46aaba67-a803-430e-8cc9-5db1d7f9a159 "alt="Guilherme status" />
-
+</div>
 
 ***
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhlm&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=bababa&bg_color=0d1117" alt="Guilherme status" /> 
-  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhlm&layout=compact&hide_border=true&title_color=8A2BE2&text_color=bababa&bg_color=0d1117" />
 </div>
 
@@ -47,11 +46,8 @@
 ![REACT](https://img.shields.io/badge/REACT-402154?style=for-the-badge&logo=REACT&logoColor=61DAFB)&nbsp;
 
 <div align="end">
-  
   <a href="https://buildsburguer.paulowh.com" target="_blank"><img src="https://img.shields.io/badge/-🍔 Build's burguer-703900?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermelimamaia3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/guilherme-de-lima-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
