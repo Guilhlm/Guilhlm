@@ -4,7 +4,7 @@
 
 ***
 
-### Conhecimentos:
+## Conhecimentos:
 
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
@@ -15,7 +15,7 @@
 ![MARIA_DB](https://img.shields.io/badge/MARIA_DB-321435?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 
 
-### Ferramentas:
+## Ferramentas:
 
 ![GIT](https://img.shields.io/badge/GIT-321435?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 ![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -29,7 +29,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-321435?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-321435?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=0D1117)&nbsp;
 
-### Estudando no Momento:
+## Estudando no Momento:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![PYTHON](https://img.shields.io/badge/Python-321435?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
