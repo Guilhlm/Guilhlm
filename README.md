@@ -32,7 +32,6 @@
 ## Estudando no Momento:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![PYTHON](https://img.shields.io/badge/Python-321435?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![LINGUAGEM C](https://img.shields.io/badge/LINGUAGEM_C-321435?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-321435?style=for-the-badge&logo=REACT&logoColor=61DAFB)&nbsp;
 
