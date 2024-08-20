@@ -9,7 +9,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-321435?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
-![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-321435?style=for-the-badge&logo=php&logoColor=9a77e6)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MYSQL-321435?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MARIA_DB](https://img.shields.io/badge/MARIA_DB-321435?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
@@ -32,8 +31,8 @@
 ## Estudando no Momento:
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![LINGUAGEM C](https://img.shields.io/badge/LINGUAGEM_C-321435?style=for-the-badge&logo=c&logoColor=blue)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-321435?style=for-the-badge&logo=REACT&logoColor=61DAFB)&nbsp;
+![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
 
 <div align="end">
   <a href="https://buildsburguer.paulowh.com" target="_blank"><img src="https://img.shields.io/badge/-🍔 Build's burguer-703900?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
