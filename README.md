@@ -6,8 +6,8 @@
 
 ## Conhecimentos:
 
-![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html&logoColor=orange)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css&logoColor=skyblue)&nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-321435?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-321435?style=for-the-badge&logo=php&logoColor=9a77e6)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MYSQL-321435?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
