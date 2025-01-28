@@ -35,7 +35,6 @@
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
 
 <div align="end">
-  <a href="https://buildsburguer.paulowh.com" target="_blank"><img src="https://img.shields.io/badge/-🍔 Build's burguer-703900?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-de-lima-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
