@@ -33,6 +33,8 @@
 
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![REACT](https://img.shields.io/badge/REACT-321435?style=for-the-badge&logo=REACT&logoColor=61DAFB)&nbsp;
+![NEXTJS](https://img.shields.io/badge/NEXT.JS-321435?style=for-the-badge&logo=NEXT.JS&logoColor=0001)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-321435?style=for-the-badge&logo=TypeScript&logoColor=61DAFB)&nbsp;
 
 <div align="end">
   <a href="https://www.linkedin.com/in/guilherme-de-lima-maia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
